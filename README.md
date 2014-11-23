@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repository for project1
+repository for activityRecog project
