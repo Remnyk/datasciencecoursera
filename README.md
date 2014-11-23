@@ -6,4 +6,4 @@ The process follows line by line from first to last.
 
 The run_analysis CodeBook contains a detailed explanation of the process performed by the R scirpt. It explains all the variables used in the script, followed by a description of the transformations and changes performed by the code.
 
-Using the run_analysis scipt and Codebook will allow you to get the final tidy data set ```finFrameDT``` present in the script
+Using the run_analysis scipt and codebook will allow you to get the final tidy data set ```finFrameDT``` present in the script.
