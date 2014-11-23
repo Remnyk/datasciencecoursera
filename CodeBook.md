@@ -1,5 +1,5 @@
 ---
-title: "run_analysis.R CodeBook"
+# run_analysis.R CodeBook
 
 ---
 I unzipped the data in a directory called courseProjectDataset inside my working directory.
