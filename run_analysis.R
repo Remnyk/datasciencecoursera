@@ -1,10 +1,10 @@
-# read the X_test and X_train data sets into R
+# read the X_test and X_train data sets into R from its location on computer
 XtestData <- read.table("courseProjectDataset/test/X_test.txt")
 XtrainData <- read.table("courseProjectDataset/train/X_train.txt")
-#read test and train subject data into R
+#read test and train subject data into R from its location on computer
 testSubjectData <- read.table("courseProjectDataset/test/subject_test.txt")
 trainSubjectData <- read.table("courseProjectDataset/train/subject_train.txt")
-#read test and train activity data into R
+#read test and train activity data into R from its location on computer
 testActivityData <- read.table("courseProjectDataset/test/y_test.txt")
 trainActivityData <- read.table("courseProjectDataset/train/y_train.txt")
 #change the column names of the test and train subject and activity data.
